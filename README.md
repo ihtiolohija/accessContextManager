@@ -7,5 +7,5 @@ To start application, please run:
 - npm start
 
 Notes: 
-- application requires MongoDb to be installed and running locally (on default port);
+- application requires MongoDb to be installed and running locally (on default port, contextManager database is used);
 - application is built using Node v9.4.0
